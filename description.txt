@@ -1,0 +1,27 @@
+The Something Mod adds the stuff listed:
+
+- Pure Light Launcher (Info: Launches "Pure Light Energy" and deals a base of 500 Magic Damage)
+- Pure Light Energy (Info: Used as ammo for the "Pure Light Launcher")
+
+-------------------------------------
+
+Notes:
+
+Mod Future:
+- Item improvements to make them more fair to use and craft.
+- More items and functions... Also potatoes because why not.
+- Better integration into the world.
+- Creatures and Bosses.
+
+Pure Light Launcher:
+- I will be working to make it less OP and make the crafting requirements more fair.
+
+Pure Light Energy:
+- I will be working to make the crafting requirements more fair.
+
+-------------------------------------
+
+Changelog:
+
+V1.0.0
+- Release
